@@ -113,17 +113,17 @@
   },
   {
     "original_path": "sources/abarth_photo.jpg",
-    "public_url": "https://www.abarth.com/content/dam/abarth/Logo_page/Editorial/01_Symbol/Editorial_content_Symbol_1920x573.jpg",
-    "hosted_path": null,
-    "hosting": "official public URL",
-    "note": "official source URL"
+    "public_url": "https://raw.githubusercontent.com/komin0707/claude-image-links-20260919/main/car-logo-60s-v2/sources/abarth_photo.jpg",
+    "hosted_path": "sources/abarth_photo.jpg",
+    "hosting": "GitHub raw",
+    "note": "original image copied to public repo"
   },
   {
     "original_path": "sources/alfa_logo.png",
-    "public_url": "https://www.stellantis.com/content/dam/stellantis-corporate/contacts/brand/logo-left/alfa-romeo.png",
-    "hosted_path": null,
-    "hosting": "official public URL",
-    "note": "official source URL"
+    "public_url": "https://raw.githubusercontent.com/komin0707/claude-image-links-20260919/main/car-logo-60s-v2/sources/alfa_logo.png",
+    "hosted_path": "sources/alfa_logo.png",
+    "hosting": "GitHub raw",
+    "note": "original image copied to public repo"
   },
   {
     "original_path": "sources/ferrari_prancing_horse.jpg",
@@ -162,10 +162,10 @@
   },
   {
     "original_path": "sources/peugeot_emblem.jpg",
-    "public_url": "https://www.peugeot.com.au/content/dam/peugeot/master/b2c/open/desk/family-adventure/icons/CRO_AventureFam_Embleme_12.jpg?imwidth=768",
-    "hosted_path": null,
-    "hosting": "official public URL",
-    "note": "official source URL"
+    "public_url": "https://raw.githubusercontent.com/komin0707/claude-image-links-20260919/main/car-logo-60s-v2/sources/peugeot_emblem.jpg",
+    "hosted_path": "sources/peugeot_emblem.jpg",
+    "hosting": "GitHub raw",
+    "note": "original image copied to public repo"
   },
   {
     "original_path": "sources/peugeot_technical.jpg",
@@ -190,9 +190,9 @@
   },
   {
     "original_path": "sources/ram_logo_large.png",
-    "public_url": "https://www.stellantis.com/content/dam/stellantis-corporate/contacts/brand/logo-left/ram.png",
-    "hosted_path": null,
-    "hosting": "official public URL",
-    "note": "official source URL"
+    "public_url": "https://raw.githubusercontent.com/komin0707/claude-image-links-20260919/main/car-logo-60s-v2/sources/ram_logo_large.png",
+    "hosted_path": "sources/ram_logo_large.png",
+    "hosting": "GitHub raw",
+    "note": "original image copied to public repo"
   }
 ]
